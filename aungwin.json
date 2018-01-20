@@ -1,0 +1,16 @@
+{
+	"name": "Aung Myo Win",
+	"placeOfBirth": "Mandalay",
+	"phone": "07939999567",
+	"address": "Feltham",
+	"educations": [
+		{ "firstDegree": "B.Sc(Geology)", "year": "1996"},
+		{ "postGraduate" : "Computer Science", "year": "2000"}
+	],
+	"skills": [
+		"programming", "web development", "UX"
+	],
+	"hobbies": [
+		"eating", "excercise", "eating"
+	]
+}
